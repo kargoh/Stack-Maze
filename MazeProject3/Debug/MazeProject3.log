@@ -1,0 +1,4 @@
+﻿  MazeProject3.cpp
+C:\Users\Isaiah\Desktop\Workspace\CST-201\MazeProject3\MazeProject3\MazeProject3.cpp(158,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Isaiah\Desktop\Workspace\CST-201\MazeProject3\MazeProject3\MazeProject3.cpp(159,21): warning C4018:  '<': signed/unsigned mismatch
+  MazeProject3.vcxproj -> C:\Users\Isaiah\Desktop\Workspace\CST-201\MazeProject3\Debug\MazeProject3.exe
